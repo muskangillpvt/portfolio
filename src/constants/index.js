@@ -10,7 +10,7 @@ export const myProjects = [
       "Designed a responsive frontend with Tailwind CSS, enhancing user experience.",
       "Added AI, calender, task manager and notes feature to keep all the necessary features together with tracking daily finances.",
     ],
-    href: "",
+    href: "https://notemuskan.netlify.app/",
     logo: "",
     image: "/assets/projects/expense.png",
     tags: [
@@ -37,7 +37,7 @@ export const myProjects = [
       "Designed a responsive frontend with Tailwind CSS, enhancing user experience.",
       "It does not include real payment processing, real authentication, or backend integration.",
     ],
-    href: "",
+    href: "https://ecommerce-sepia-nu.vercel.app/",
     logo: "",
     image: "/assets/projects/ecom.png",
     tags: [
@@ -64,7 +64,7 @@ export const myProjects = [
       "Designed responsive UI components with Tailwind CSS for an enhanced UI.",
       "Integrated different templates and downloading Resume as pdf at the end.",
     ],
-    href: "",
+    href: "https://resume-builder-chi-woad.vercel.app/",
     logo: "",
     image: "/assets/projects/resume.png",
     tags: [
