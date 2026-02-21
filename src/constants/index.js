@@ -10,7 +10,7 @@ export const myProjects = [
       "Designed a responsive frontend with Tailwind CSS, enhancing user experience.",
       "Added AI, calender, task manager and notes feature to keep all the necessary features together with tracking daily finances.",
     ],
-    href: "https://notemuskan.netlify.app/",
+    href: "https://github.com/muskangillpvt/NexWise.git",
     logo: "",
     image: "/assets/projects/expense.png",
     tags: [
